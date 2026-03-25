@@ -1,0 +1,6 @@
+hw03/
+├── src/            # 核心代码（人脸处理+Streamlit界面）
+├── tests/          # 测试代码（可选，验证人脸检测功能）
+├── face_database/  # 已知人脸库（图片+特征值，可选）
+├── sample_images/  # 示例图片（供Web界面选择）
+└── requirements.txt# 依赖清单
